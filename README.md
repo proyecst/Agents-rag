@@ -1,24 +1,20 @@
-# Agents-rag
-Agen# 🤖 Agentic-RAG Portfolio Insight
+Agent# 🤖 Agentic-RAG Portfolio Insight
 
-Este proyecto es un **Agente de Inteligencia Artificial de nivel Enterprise** diseñado para actuar como un experto técnico sobre mi trayectoria profesional. Utiliza una arquitectura **RAG (Retrieval-Augmented Generation)** para procesar mi historial de proyectos, bases de código y arquitectura de sistemas.
+This project is an Enterprise-level Artificial Intelligence Agent designed to act as a technical expert on my career path. It uses a Retrieval-Augmented Generation (RAG) architecture to process my project history, codebases, and system architecture.
 
-## 🚀 Características Técnicas
-- **Semantic Search:** Implementación de embeddings vectoriales para entender consultas técnicas más allá de palabras clave.
-- **Contextual Memory:** Capacidad para mantener el hilo de conversaciones técnicas complejas.
-- **Multi-Source Ingestion:** Carga dinámica de archivos `.rb`, `.py`, `.cpp` y `.md`.
-- **Infrastructure:** Persistencia en disco mediante **ChromaDB**.
+🚀 Technical Features
+Semantic Search: Implementation of vector embeddings to understand technical queries beyond keywords.
+Contextual Memory: Ability to maintain the thread of complex technical conversations.
+Multi-Source Ingestion: Dynamic loading of .rb, .py, .cpp, and .md files.
+Infrastructure: Disk persistence using ChromaDB.
 
-## 🛠️ Stack Tecnológico
-- **Core:** Python 3.10+
-- **Orquestador de IA:** LangChain
-- **LLM:** OpenAI GPT-4o
-- **Vector DB:** ChromaDB
-- **Ambiente:** Docker Ready
-
-## 📦 Instalación y Uso
-
-1. **Clonar el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/portfolio-rag-agent.git](https://github.com/tu-usuario/portfolio-rag-agent.git)
-   cd portfolio-rag-agentts rag
+🛠️ Technology Stack
+Core: Python 3.10+
+AI Orchestrator: LangChain
+LLM: OpenAI GPT-4o
+Vector DB: ChromaDB
+Environment: Docker Ready
+📦 Installation and Usage
+Clone the repository:
+git clone [https://github.com/your-username/portfolio-rag-agent.git](https://github.com/your-username/portfolio-rag-agent.git)
+cd portfolio-rag-agents rag
